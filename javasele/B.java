@@ -7,6 +7,9 @@ public class B extends A {
 		B o1=new B();
 		//we can not inherit constructor bcoz are not class members 
 		//we can only invoke constructor //only one not more than that
+		
+		System.out.println("github check");
+		System.out.println("push some code");
 	}
 	
 	
